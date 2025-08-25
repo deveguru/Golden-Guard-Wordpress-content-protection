@@ -1,13 +1,13 @@
 <?php
 /*
  * Plugin Name: Golden Guard
- * Plugin URI: https://github.com/ftepic
+ * Plugin URI: https://github.com/deveguru
  * Description: Complete website protection against content copying, right-click, keyboard shortcuts, and developer tools access with role-based control
  * Version: 1.0.0
  * Requires at least: 5.0
  * Requires PHP: 7.2
  * Author: Alireza Fatemi
- * Author URI: https://github.com/ftepic
+ * Author URI: https://alirezafatemi.ir
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: golden-guard
